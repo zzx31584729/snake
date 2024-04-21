@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.root{
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 5px;
+}

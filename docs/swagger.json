@@ -1,0 +1,10 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is snake game api document.",
+        "title": "Snake Game Swagger API",
+        "contact": {},
+        "version": "1.0"
+    },
+    "paths": {}
+}
